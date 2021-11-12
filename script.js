@@ -1,12 +1,3 @@
-/*
- * Title: To Do Application using vanilla JS DOM
- * Description: This JS file has all the JS functions necessary to control the to do application
- * Author: Sumit Saha ( Learn with Sumit )
- * Date: 12/17/2020
- *
- */
-
- // select elements & assign them to variables
  let newTask = document.querySelector('#new-task');
  let form = document.querySelector('form');
  let todoUl = document.querySelector('#items');
